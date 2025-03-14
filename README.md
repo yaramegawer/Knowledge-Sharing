@@ -86,4 +86,4 @@ All protected routes require a JWT token. Include the token in the request heade
 Authorization: Bearer <your_token>
 ```
 
-Let me know if you’d like me to add more details or adjust anything! 🚀
+
